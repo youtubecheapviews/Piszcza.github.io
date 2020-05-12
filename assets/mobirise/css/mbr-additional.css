@@ -773,3 +773,43 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rYOP45BARc {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rYOP45BARc .card-img {
+  background-color: #fff;
+}
+.cid-rYOP45BARc .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rYOP45BARc h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rYOP45BARc p {
+  text-align: left;
+}
+.cid-rYOP45BARc .mbr-text {
+  color: #767676;
+}
+.cid-rYOP45BARc .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rYOP45BARc .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rYOP45BARc .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
